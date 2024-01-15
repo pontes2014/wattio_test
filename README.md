@@ -14,7 +14,7 @@ O Aplicativo Wattio é uma aplicação Flutter onde o usuário insere alguns dad
 
 ## test unitario screen
 
-<img src="https://github.com/pontes2014/wattio_test/assets/91500779/d28875a0-53f1-49d0-89a6-f18a515d143e width="300">
+<img src="https://github.com/pontes2014/wattio_test/assets/91500779/d28875a0-53f1-49d0-89a6-f18a515d143e" width="300">
 
 ## Como Usar
 
