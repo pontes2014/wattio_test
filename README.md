@@ -7,6 +7,9 @@ Teste Flutter Wattio
 O Aplicativo Wattio é uma aplicação Flutter onde o usuário insere alguns dados sobre si mesmo e, com base nesses dados, recebe diferentes ofertas das cooperativas pré-cadastradas. As ofertas são listadas de acordo com as condições de cada cooperativa, se os dados que o usuário inseriu combinam com elas. Após receber as ofertas, o usuário escolhe uma e a aplicação mostra a economia que ele vai ganhar com essa oferta.
 
 ## Imagens
+![image](https://github.com/pontes2014/wattio_test/assets/91500779/b53e8c12-665c-4118-a407-df7350ab07e9)
+
+![image](https://github.com/pontes2014/wattio_test/assets/91500779/8abbca5f-76c1-448c-98aa-e0714bd5ba40)
 
 
 ## Como Usar
